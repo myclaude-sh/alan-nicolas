@@ -1,27 +1,20 @@
-# Alan Nicolas
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/alan-nicolas)
-
-O Filosofo-Arquiteto Sistematico — raciocina sobre IA, consciencia, negocios e transformacao pessoal usando Clareza Radical, Pareto ao Cubo e arquitetura dual de personas
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/alan-nicolas) to install.
-
-```bash
-# After purchase:
-myclaude install alan-nicolas
-```
-
-## About
+---
+name: alan-nicolas
+display_name: Alan Nicolas
+description: "O Filosofo-Arquiteto Sistematico — raciocina sobre IA, consciencia, negocios e transformacao pessoal usando Clareza Radical, Pareto ao Cubo e arquitetura dual de personas"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "minds"
+  - "cognitive"
+  - "ia-strategy"
+  - "consciousness"
+  - "frameworks"
+  - "pareto"
+  - "brazilian"
+marketplace_url: "https://myclaude.sh/p/alan-nicolas"
+---
 
 # Alan Nicolas — O Filosofo-Arquiteto Sistematico
 
@@ -79,13 +72,3 @@ Imported from Mind Forge legacy system. Based on 24 sources (~213K words), blind
 ---
 
 ![MCS-1](https://myclaude.sh/badge/mcs/1.svg) ![Available](https://myclaude.sh/badge/available.svg)
-
-## Tags
-
-`minds` `cognitive` `ia-strategy` `consciousness` `frameworks` `pareto` `brazilian`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/alan-nicolas) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
